@@ -1,8 +1,13 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #000000;
+}
+title {
+        margin: 60px auto;
+    width: 70%;
     background-size: 1440px 1000px;
-    background-image: url("https://d31v04zdn5vmni.cloudfront.net/blog/wp-content/uploads/2012/02/featured-image-snippets-1-690x362.png");
+    background-image: url("https://www.videoblocks.com/video/blue-digital-matrix-style-loop-background-cfxhjan");
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
