@@ -9,7 +9,6 @@ h9 {
        margin: 60px auto;
     width: 70%;
     background-size: 1440px 1000px;
-    background-position:fixed;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Trebuchet MS', 'Sans-Serif';
@@ -39,7 +38,7 @@ h1 {
 h2 {
     font-size: 2em;
     font-family: 'Helvetica', 'Trebuchet MS', 'Sans-Serif';
-    color: #99AAB5;
+    color: ##1fbd23;
 }
 p {
     font-size: 1.5em;
@@ -61,6 +60,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-family: 'Helvetica', 'Trebuchet MS', 'Sans-Serif'
     color: #1fbd23;
 }
 
