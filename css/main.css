@@ -3,7 +3,7 @@ body {
     width: 70%;
     background-size: 1440px 1000px;
     background-image: url("https://cdn.discordapp.com/attachments/385115689058304001/449260370591481877/high-tech-background-30884-31614-hd-wallpapers.jpg");
-    background-position:fixed;
+    background-attachment: fixed;
 }
 h9 {
        margin: 60px auto;
@@ -23,7 +23,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #99AAB5;
+    color: #1fbd23;
 }
 
 
@@ -61,6 +61,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    color: #1fbd23;
 }
 
 coinhive-miner{
